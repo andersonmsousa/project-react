@@ -1,6 +1,6 @@
 import './styles.css';
 
-function SearchInput({ searchValue, handleChange }) {
+function TextInput({ searchValue, handleChange }) {
     return (
             <input 
                 className='text-input' 
@@ -12,4 +12,4 @@ function SearchInput({ searchValue, handleChange }) {
     )
 }
 
-export default SearchInput;
+export default TextInput;
