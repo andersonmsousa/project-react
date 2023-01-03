@@ -3,6 +3,7 @@
 exports[`<PostCard /> should match snapshot 1`] = `
 <div
   class="post"
+  id="1"
 >
   <img
     alt="title 1"

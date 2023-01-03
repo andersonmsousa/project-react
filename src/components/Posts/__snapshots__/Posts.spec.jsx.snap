@@ -6,6 +6,7 @@ exports[`<Posts /> should match snapshot 1`] = `
 >
   <div
     class="post"
+    id="1"
   >
     <img
       alt="title 1"
@@ -24,6 +25,7 @@ exports[`<Posts /> should match snapshot 1`] = `
   </div>
   <div
     class="post"
+    id="2"
   >
     <img
       alt="title 2"
@@ -42,6 +44,7 @@ exports[`<Posts /> should match snapshot 1`] = `
   </div>
   <div
     class="post"
+    id="3"
   >
     <img
       alt="title 3"
